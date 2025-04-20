@@ -21,7 +21,8 @@
 │ ├── problem_definition/ # 문제 정의 및 분석 설계
 │ ├── visualization/ # 효과적인 시각화 설계
 │ ├── insight-into-action/ # 분석 인사이트 → 실질적 액션
-│ └── metrics_guide/ # 주요 지표 해석과 활용
+│ ├── metrics_guide/ # 주요 지표 해석과 활용
+│ └── product_analysis/ # 프로덕트 데이터 분석 관련
 ```
 
 ---
